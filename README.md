@@ -1,8 +1,6 @@
 # Template Ambiente PHP Moderno
 Template para criação de um ambiente de desenvolvimento no [**Codespaces**](https://github.com/features/codespaces) para execução dos exercícios do [**Curso de PHP Moderno**](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/) do **Curso em Vídeo** ministrado pelo professor [**@gustavoguanabara**](https://github.com/gustavoguanabara).
 
-Template para criação de um ambiente de desenvolvimento no Codespaces para execução dos exercícios do Curso de PHP Moderno do @cursoemvideo ministrado pelo professor @gustavoguanabara.
-
 ## 🛠️Ferramentas Instaladas:
 - ![Static Badge](https://img.shields.io/badge/PHP_8.2-777BB4?logo=PHP&logoColor=777BB4&labelColor=white)
 - ![Static Badge](https://img.shields.io/badge/Apache-D22128?logo=Apache&logoColor=D22128&labelColor=white)
