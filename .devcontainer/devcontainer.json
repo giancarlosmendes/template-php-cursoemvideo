@@ -1,0 +1,37 @@
+{
+    "name": "Ubuntu com PHP 8.2 e Apache",
+    //Imagem com a versão mais recente do Ubuntu LTS
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/shyim/devcontainers-features/php:0": {
+            "disableAllExtensions": true,
+            "version": "8.2"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bmewburn.vscode-intelephense-client",
+                "hakcorp.php-awesome-snippets",
+                "rifi2k.format-html-in-php",
+                "MS-CEINTL.vscode-language-pack-pt-BR"
+            ],
+            "settings": {
+                "editor.fontSize": 17,
+                "terminal.integrated.fontSize": 17,
+                "files.autoSave": "onWindowChange",
+                "editor.wordWrap": "on",
+                "editor.minimap.autohide": "mouseover"
+            }
+        }
+    },
+    "postCreateCommand": [
+        //Atualiza lista de pacotes
+        "sudo apt update",
+        //Instala o pacote apache2
+        "sudo apt install apache2 -y",
+        /*Cria um link simbólico da raiz do nosso projeto (/workspaces/nosso-repositorio) 
+		para o diretório padrão do Apache em (/var/www/html)*/
+        "sudo chmod a+x \"$(pwd)\" && sudo rm -rf /var/www/html && sudo ln -s \"$(pwd)\" /var/www/html"
+    ]
+}
