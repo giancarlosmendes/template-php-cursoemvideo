@@ -20,15 +20,15 @@ Template para criação de um ambiente de desenvolvimento no Codespaces para exe
 
 1. Clique em `Use this template` e depois em `Create a new repository`
 
-    ![Create a new repository](https://github.com/user-attachments/assets/bf92c5f9-b240-4973-9fd9-4bd2782886e2)
+    ![Create a new repository](https://github.com/user-attachments/assets/31244142-77d9-43d3-9453-b4a8a20f103e)
 
-2. Digite um nome para essa cópia, adicione uma descrição e depois clique em `Create repository`
+3. Digite um nome para essa cópia, adicione uma descrição e depois clique em `Create repository`
 
-    ![Create repository](https://github.com/user-attachments/assets/16d47380-583d-46cd-982d-4ba4b978df8c)
+    ![Create repository](https://github.com/user-attachments/assets/15e5db91-4d27-48d0-8d74-0522cf4918d3)
 
-3. Depois de ter realizado a cópia, clique no botão `Code`, depois em `Create codespace on main` e aguarde até o carregamento completo do ambiente
+5. Depois de ter realizado a cópia, clique no botão `Code`, depois em `Create codespace on main` e aguarde até o carregamento completo do ambiente
 
-   https://github.com/user-attachments/assets/978f199c-bfef-4caf-854c-75b4175fa435
+    https://github.com/user-attachments/assets/c5ea0093-629c-4f84-93b3-f2c12478c4fe
 
 </details>
 
