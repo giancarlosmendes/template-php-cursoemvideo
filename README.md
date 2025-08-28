@@ -1,5 +1,5 @@
 # Template Ambiente PHP Moderno
-Template para criação de um ambiente de desenvolvimento no [**Codespaces**](https://github.com/features/codespaces) para execução dos exercícios do [**Curso de PHP Moderno**](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/) do **Curso em Vídeo** ministrado pelo professor [**@gustavoguanabara**](https://github.com/gustavoguanabara).
+Template para criação de um ambiente de desenvolvimento no Codespaces para execução dos exercícios do [**Curso de PHP Moderno**](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/) do **Curso em Vídeo**.
 
 ## 🛠️Ferramentas Instaladas:
 - ![Static Badge](https://img.shields.io/badge/PHP_8.2-777BB4?style=plastic&logo=PHP&logoColor=white)
@@ -46,7 +46,7 @@ Template para criação de um ambiente de desenvolvimento no [**Codespaces**](ht
     php -S 0.0.0.0:8080
     ```
 
-3. Clique no botão `Open in Browser` que vai aparecer no VSCode
+3. Clique no botão `Open in Browser` que vai aparecer no VSCode.
 
 4. Quando abrir o navegador, clique na barra de endereços e no final da URL coloque uma `/` seguido do caminho onde está o arquivo, por exemplo:
     ```
