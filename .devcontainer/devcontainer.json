@@ -21,7 +21,8 @@
                 "terminal.integrated.fontSize": 17,
                 "files.autoSave": "onWindowChange",
                 "editor.wordWrap": "on",
-                "editor.minimap.autohide": "mouseover"
+                "editor.minimap.autohide": "mouseover",
+				"explorer.compactFolders": false
             }
         }
     },
