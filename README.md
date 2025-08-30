@@ -1,11 +1,11 @@
-# Template Ambiente PHP Moderno
-Template para criação de um ambiente de desenvolvimento no **Codespaces** para execução dos exercícios do [**Curso de PHP Moderno**](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/) do **Curso em Vídeo**.
+## (Template) Ambiente de Desenvolvimento de PHP Moderno
+Este repositório foi criado para servir de **template** para criação de um ambiente de desenvolvimento em nuvem, utilizando o **Codespaces**, para praticar **PHP** e desenvolver os exercícios e desafios propostos durante o [**Curso de PHP Moderno**](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/) do [@cursoemvideo](https://github.com/cursoemvideo/) ministrado pelo professor [@gustavoguanabara](https://github.com/gustavoguanabara/).
 
-## 🛠️Ferramentas Instaladas:
+## 🛠️Ferramentas instaladas:
 - ![Static Badge](https://img.shields.io/badge/PHP_8.2-777BB4?style=plastic&logo=PHP&logoColor=white)
 - ![Static Badge](https://img.shields.io/badge/Apache-D22128?style=plastic&logo=Apache&logoColor=white)
 
-## 🧩Extensões do VSCode Pré-instaladas:
+## 🧩Extensões pré-instaladas:
 - [![Static Badge](https://custom-icon-badges.demolab.com/badge/PHP_Intelephense-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [![Static Badge](https://custom-icon-badges.demolab.com/badge/PHP_Awesome_Snippets-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=hakcorp.php-awesome-snippets)
 - [![Static Badge](https://custom-icon-badges.demolab.com/badge/Format_HTML_in_PHP-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)
