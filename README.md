@@ -6,10 +6,10 @@ Template para criação de um ambiente de desenvolvimento no **Codespaces** para
 - ![Static Badge](https://img.shields.io/badge/Apache-D22128?style=plastic&logo=Apache&logoColor=white)
 
 ## 🧩Extensões do VSCode Pré-instaladas:
-- [![Static Badge](https://custom-icon-badges.demolab.com/badge/PHP_Intelephense-525252?style=plastic&logo=vscode-logo-icon&logoColor=0098FF&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-- [![Static Badge](https://custom-icon-badges.demolab.com/badge/PHP_Awesome_Snippets-525252?style=plastic&logo=vscode-logo-icon&logoColor=0098FF&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=hakcorp.php-awesome-snippets)
-- [![Static Badge](https://custom-icon-badges.demolab.com/badge/Format_HTML_in_PHP-525252?style=plastic&logo=vscode-logo-icon&logoColor=0098FF&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)
-- [![Static Badge](https://custom-icon-badges.demolab.com/badge/Portuguese_(Brazil)_Language_Pack_for_Visual_Studio_Code-525252?style=plastic&logo=vscode-logo-icon&logoColor=0098FF&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
+- [![Static Badge](https://custom-icon-badges.demolab.com/badge/PHP_Intelephense-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+- [![Static Badge](https://custom-icon-badges.demolab.com/badge/PHP_Awesome_Snippets-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=hakcorp.php-awesome-snippets)
+- [![Static Badge](https://custom-icon-badges.demolab.com/badge/Format_HTML_in_PHP-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)
+- [![Static Badge](https://custom-icon-badges.demolab.com/badge/Portuguese_(Brazil)_Language_Pack_for_Visual_Studio_Code-525252?style=plastic&logo=vscode-logo-icon&labelColor=white)](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
 
 
 ## 📝Como copiar esse modelo
